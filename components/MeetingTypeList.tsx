@@ -162,7 +162,9 @@ const MeetingTypeList = () => {
           onChange={(e) => setValues({ ...values, link: e.target.value })}
           className="border-none bg-dark-3 focus-visible:ring-0 focus-visible:ring-offset-0"
         />
-        <p className="text-red-500">Before pasting link first add "http://".</p>
+        <p className="text-red-500">
+          Before pasting link first add &quot;http://&quot;.
+        </p>
       </MeetingModal>
 
       <MeetingModal
