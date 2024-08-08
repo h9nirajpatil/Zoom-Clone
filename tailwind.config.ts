@@ -20,30 +20,31 @@ const config = {
     extend: {
       colors: {
         dark: {
-          1: "#1C1F2E",
-          2: "#161925",
-          3: "#4a4e69",
+          1: "#2f2235",
+          2: "#3f3244",
+          3: "#60495a",
         },
         blue: {
-          1: "#0E78F9",
+          1: "#832161",
+          2: "#f686bd",
         },
         sky: {
           1: "#C9DDFF",
           2: "#ECF0FF",
-          3: "#F5FCFF",
+          3: "#e5e5e5",
         },
         orange: {
-          1: "#FF742E",
+          1: "#e54b4b",
         },
         purple: {
-          1: "#830EF9",
+          1: "#725ac1",
         },
         yellow: {
-          1: "#F9A90E",
+          1: "#e3b23c",
         },
       },
       backgroundImage: {
-        hero: "url('/images/hero-background.png')",
+        hero: "url('/images/background2.jpg')",
       },
       keyframes: {
         "accordion-down": {

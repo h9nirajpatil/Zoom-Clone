@@ -9,14 +9,14 @@ const Navbar = () => {
     <nav className="flex-between fixed z-50 w-full bg-dark-1 px-6  py-4 lg:px-10">
       <Link href="/" className="flex items-center gap-1">
         <Image
-          src="/icons/logo.svg"
-          width={32}
-          height={32}
-          alt="Yoom logo"
-          className="max-sm:size-10"
+          src="/icons/logo1.jpg"
+          width={50}
+          height={50}
+          alt="Hola logo"
+          className="rounded-full object-cover max-sm:w-10 max-sm:h-10"
         />
         <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          Yoom
+          TEAMS
         </p>
       </Link>
       <div className="flex-between gap-5">
