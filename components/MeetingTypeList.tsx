@@ -163,7 +163,8 @@ const MeetingTypeList = () => {
           className="border-none bg-dark-3 focus-visible:ring-0 focus-visible:ring-offset-0"
         />
         <p className="text-red-500">
-          Before pasting link first add &quot;http://&quot;.
+          Paste Link In This Formate &quot;
+          https://hola9teams.netlify.app/(paste your meeting link)&quot;.
         </p>
       </MeetingModal>
 
